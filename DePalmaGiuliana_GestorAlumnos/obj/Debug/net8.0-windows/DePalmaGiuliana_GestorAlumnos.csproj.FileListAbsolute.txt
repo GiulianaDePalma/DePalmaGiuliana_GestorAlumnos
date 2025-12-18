@@ -1,0 +1,16 @@
+C:\Users\depal\Desktop\DePalmaGiuliana_GestorAlumnos\bin\Debug\net8.0-windows\DePalmaGiuliana_GestorAlumnos.exe
+C:\Users\depal\Desktop\DePalmaGiuliana_GestorAlumnos\bin\Debug\net8.0-windows\DePalmaGiuliana_GestorAlumnos.deps.json
+C:\Users\depal\Desktop\DePalmaGiuliana_GestorAlumnos\bin\Debug\net8.0-windows\DePalmaGiuliana_GestorAlumnos.runtimeconfig.json
+C:\Users\depal\Desktop\DePalmaGiuliana_GestorAlumnos\bin\Debug\net8.0-windows\DePalmaGiuliana_GestorAlumnos.dll
+C:\Users\depal\Desktop\DePalmaGiuliana_GestorAlumnos\bin\Debug\net8.0-windows\DePalmaGiuliana_GestorAlumnos.pdb
+C:\Users\depal\Desktop\DePalmaGiuliana_GestorAlumnos\obj\Debug\net8.0-windows\DePalmaGiuliana_GestorAlumnos.Form1.resources
+C:\Users\depal\Desktop\DePalmaGiuliana_GestorAlumnos\obj\Debug\net8.0-windows\DePalmaGiuliana_GestorAlumnos.csproj.GenerateResource.cache
+C:\Users\depal\Desktop\DePalmaGiuliana_GestorAlumnos\obj\Debug\net8.0-windows\DePalmaGiuliana_GestorAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\depal\Desktop\DePalmaGiuliana_GestorAlumnos\obj\Debug\net8.0-windows\DePalmaGiuliana_GestorAlumnos.AssemblyInfoInputs.cache
+C:\Users\depal\Desktop\DePalmaGiuliana_GestorAlumnos\obj\Debug\net8.0-windows\DePalmaGiuliana_GestorAlumnos.AssemblyInfo.cs
+C:\Users\depal\Desktop\DePalmaGiuliana_GestorAlumnos\obj\Debug\net8.0-windows\DePalmaGiuliana_GestorAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\depal\Desktop\DePalmaGiuliana_GestorAlumnos\obj\Debug\net8.0-windows\DePalmaGiuliana_GestorAlumnos.dll
+C:\Users\depal\Desktop\DePalmaGiuliana_GestorAlumnos\obj\Debug\net8.0-windows\refint\DePalmaGiuliana_GestorAlumnos.dll
+C:\Users\depal\Desktop\DePalmaGiuliana_GestorAlumnos\obj\Debug\net8.0-windows\DePalmaGiuliana_GestorAlumnos.pdb
+C:\Users\depal\Desktop\DePalmaGiuliana_GestorAlumnos\obj\Debug\net8.0-windows\DePalmaGiuliana_GestorAlumnos.genruntimeconfig.cache
+C:\Users\depal\Desktop\DePalmaGiuliana_GestorAlumnos\obj\Debug\net8.0-windows\ref\DePalmaGiuliana_GestorAlumnos.dll

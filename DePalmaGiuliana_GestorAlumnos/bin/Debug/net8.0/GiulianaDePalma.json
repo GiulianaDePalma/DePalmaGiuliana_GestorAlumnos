@@ -1,0 +1,18 @@
+[
+  {
+    "Legajo": "001",
+    "Apellido": "De Palma",
+    "Nombres": "Giuliana",
+    "NumeroDocumento": "46966509",
+    "Email": "giulianadepalma05@gmail.com",
+    "Telefono": "3412586641"
+  },
+  {
+    "Legajo": "002",
+    "Apellido": "Alegre",
+    "Nombres": "Fermin",
+    "NumeroDocumento": "66666666",
+    "Email": "6666666666",
+    "Telefono": "66666666666"
+  }
+]

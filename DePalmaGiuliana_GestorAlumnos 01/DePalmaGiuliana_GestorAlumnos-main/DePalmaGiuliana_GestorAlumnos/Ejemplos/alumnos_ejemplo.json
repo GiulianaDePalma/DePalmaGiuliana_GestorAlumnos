@@ -1,0 +1,82 @@
+[
+  {
+    "Legajo": "001",
+    "Apellido": "De Palma",
+    "Nombres": "Giuliana",
+    "NumeroDocumento": "46965509",
+    "Email": "GiulianaDePalma@gmail.com",
+    "Telefono": "3412586641"
+  },
+  {
+    "Legajo": "002",
+    "Apellido": "De Palma",
+    "Nombres": "Guadalupe",
+    "NumeroDocumento": "40123456",
+    "Email": "GuadalupeDePalma@gmail.com",
+    "Telefono": "34111111111"
+  },
+  {
+    "Legajo": "003",
+    "Apellido": "Perez",
+    "Nombres": "Lucas",
+    "NumeroDocumento": "40123458",
+    "Email": "Lucas.Perez@gmail.com",
+    "Telefono": "3411111113"
+  },
+  {
+    "Legajo": "004",
+    "Apellido": "Perez",
+    "Nombres": "Sofia",
+    "NumeroDocumento": "40123459",
+    "Email": "Sofia.Perez@gmail.com",
+    "Telefono": "3411111114"
+  },
+  {
+    "Legajo": "005",
+    "Apellido": "Lopez",
+    "Nombres": "Martin",
+    "NumeroDocumento": "40123460",
+    "Email": "martin.lopez@gmail.com",
+    "Telefono": "3411111115"
+  },
+  {
+    "Legajo": "006",
+    "Apellido": "Lopez",
+    "Nombres": "Laura",
+    "NumeroDocumento": "40123461",
+    "Email": "Laura.Lopez@gmail.com",
+    "Telefono": "3411111116"
+  },
+  {
+    "Legajo": "007",
+    "Apellido": "Fernandez",
+    "Nombres": "Diego",
+    "NumeroDocumento": "40123462",
+    "Email": "diego.fernandez@gmail.com",
+    "Telefono": "3411111117"
+  },
+  {
+    "Legajo": "008",
+    "Apellido": "Fernandez",
+    "Nombres": "Clara",
+    "NumeroDocumento": "40123463",
+    "Email": "carla.fernandez@gmail.com",
+    "Telefono": "3411111118"
+  },
+  {
+    "Legajo": "009",
+    "Apellido": "Ruiz",
+    "Nombres": "Pablo",
+    "NumeroDocumento": "40123464",
+    "Email": "pablo.ruiz@gmail.com",
+    "Telefono": "3411111119"
+  },
+  {
+    "Legajo": "010",
+    "Apellido": "Ruiz",
+    "Nombres": "Maria Laura",
+    "NumeroDocumento": "40123465",
+    "Email": "MariaLaura.Ruiz@gmail.com",
+    "Telefono": "3411111120"
+  }
+]
